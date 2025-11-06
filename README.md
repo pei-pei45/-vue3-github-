@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+
 # 🔍 GitHub User Finder
 
 A modern, feature-rich Vue 3 application for searching and exploring GitHub users and their repositories.
@@ -128,3 +130,5 @@ Built with using Vue 3
 ### Customize configuration / 自定义配置
 
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+> > > > > > > b24b5ffcbad6db655e0cd224316a2eccc9fb24d4
